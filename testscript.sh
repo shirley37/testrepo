@@ -1,2 +1,6 @@
 # local copy 1
-# local copy 2# local copy 2
+<<<<<<< HEAD
+# local copy 2
+=======
+# remote copy 1
+>>>>>>> 23e81783732e66a64ea89910cddee4951c2acbb5
