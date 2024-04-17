@@ -1,2 +1,2 @@
-# locallocal
+# local
 # remote
