@@ -6,4 +6,3 @@ merge_tables_tidyverse <- function(data1, data2, by_column) {
   return(merged_data)
 }
 
-# Function using tidyverse
